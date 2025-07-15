@@ -1,0 +1,7 @@
+pandas
+ta
+requests
+schedule
+sqlalchemy
+rich
+flask

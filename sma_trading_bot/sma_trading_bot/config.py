@@ -1,0 +1,6 @@
+API_KEY = "PK6TE76SD8PVQFL0Z1KO"
+API_SECRET = "DITT_API_SECRET"
+BASE_URL = "https://paper-api.alpaca.markets/v2"
+SYMBOL = "AAPL"
+TIMEFRAME = "1Day"
+DB_PATH = "sqlite:///trading_data.db"
